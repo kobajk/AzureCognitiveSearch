@@ -1,6 +1,6 @@
 # AzureCognitiveSearch
 
-##### Utilizando AI Search para indexação e consulta de Dados
+# Utilizando AI Search para indexação e consulta de Dados
 
 ## Problema:
 
